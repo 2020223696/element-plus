@@ -12,7 +12,7 @@
 
 <style>
 .card-header {
-  display: flex;
+/*   display: flex; */
   justify-content: space-between;
   align-items: center;
 }
